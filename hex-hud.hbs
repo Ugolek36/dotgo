@@ -1,0 +1,87 @@
+<aside id="{{id}}" class="{{cssClass}}">
+
+    <section class="hex">
+        <p class="item">
+            <span class="key">{{localize zone.label}}</span>
+            <span class="gray value">Hex #{{hex}}</span>
+        </div>
+        <div class="flex">
+            <div>
+                {{#if hex.terrain.label}}
+                <p class="item">
+                    <span class="gray key">Terrain</span>
+                    <span class="value">{{localize hex.terrain.label}}</span>
+                </p>
+                {{/if}}
+                {{#if hex.travel.label}}
+                <p class="item">
+                    <span class="gray key">Travel</span> 
+                    <span class="value">{{localize hex.travel.label}}</span>
+                </p>
+                {{/if}}
+            </div>
+            {{#if hex.terrain.icon}}
+            <img class="icon" src={{hex.terrain.icon}} alt="{{hex}}">
+            {{/if}}
+        </div>
+        <div class="group">
+            {{~#if explored}}
+            <p class="item">
+                <span class="key">Explored</span>
+                <span class="value">{{localize hex.explorationState.label}}</span>
+            </p>
+            {{/if~}}
+            {{~#if hex.data.cleared}}
+            <p class="item">
+                <span class="key">Cleared</span>
+                <i class="value fa-solid fa-check"></i>
+            </p>
+            {{/if~}}
+            {{~#if hex.data.claimed}}
+            <p class="item">
+                <span class="key">Claimed</span>
+                <i class="value fa-solid fa-check"></i>
+            </p>
+            {{/if~}}
+        </div>
+    </section>
+
+    {{#if showDiscovery}}
+    <div class="group">
+        <section class="flex">
+            <h3 class="title">{{hex.name}}</h3>
+            <i class="value fa-solid {{ifThen hex.data.discovered 'fa-check' 'fa-eye-slash'}}"></i>
+        </section>
+        <ul class="traits"><li>{{localize hex.discovery.label}}</li></ul>
+    </div>
+    {{/if}}
+
+    {{#if features.length}}
+    <div class="group">
+        {{#each features as |feature|}}
+        <p class="item">
+            <span class="key left">{{feature.name}}</span>
+            <i class="value fa-solid {{feature.icon}} fa-fw"></i>
+        </p>
+        {{/each}}
+    </div>
+    {{/if}}
+
+    {{#if showDetails}}
+    <div class="group">
+        {{~#if commodity}}
+        <p class="item">
+            <span class="key">Commodity</span>
+            <span class="value">{{localize commodity.label}}</span>
+        </p>
+        {{/if}}
+        {{~#if camp}}
+        <p class="item">
+            <span class="key">Camp</span>
+            <span class="value">{{localize camp.label}}</span>
+        </p>
+        {{/if~}}
+    </div>
+    {{/if}}
+
+</aside>

@@ -1,0 +1,68 @@
+<form class="flexcol" autocomplete="off">
+    <fieldset>
+        <legend>Exploration</legend>
+        {{#if hex.discovery}}
+        <div class="form-group">
+            <label data-tooltip="Has this hex's primary point of interest been discovered? Note: If enabled, players will be able to see the encounter name on the hex tooltip.">Discovered</label>
+            <input type="checkbox" name="discovered" {{checked hex.discovered}}>
+        </div>
+        {{/if}}
+        <div class="form-group">
+            <label data-tooltip="Have the party reconnoitered or mapped this hex? Note: If enabled, players will be able to see the hex's commodities and work camps on the hex tooltip.">Status</label>
+            <div class="form-fields">
+                <select name="exploration">
+                    {{selectOptions explorationStates selected=hex.exploration nameAttr="value" labelAttr="label" localize=true}}
+                </select>
+            </div>
+        </div>
+        <div class="form-group">
+            <label data-tooltip="Has the hex been Cleared by the Kingdom?">Cleared</label>
+            <input type="checkbox" name="cleared" {{checked hex.cleared}}>
+        </div>
+        <div class="form-group">
+            <label data-tooltip="Has the hex been Claimed by the Kingdom?">Claimed</label>
+            <input type="checkbox" name="claimed" {{checked hex.claimed}}>
+        </div>
+    </fieldset>
+
+    <fieldset>
+        <legend>Resources</legend>
+        <div class="form-group">
+            <label>Commodities</label>
+            <div class="form-fields">
+                <select name="commodity">
+                    {{selectOptions commodities selected=hex.commodity nameAttr="id" labelAttr="label" localize=true blank=""}}
+                </select>
+            </div>
+        </div>
+        <div class="form-group">
+            <label>Camp</label>
+            <div class="form-fields">
+                <select name="camp">
+                    {{selectOptions camps selected=hex.camp nameAttr="id" labelAttr="label" localize=true blank=""}}
+                </select>
+            </div>
+        </div>
+    </fieldset>
+
+    <fieldset>
+        <legend>
+            Features
+            <button type="button" data-action="addFeature">
+                <i class="fa-solid fa-plus"></i>
+                <span>Add</span>
+            </button>
+        </legend>
+        {{#each hex.features as |feature i|}}
+        {{> (lookup @root "featurePartial") id=i type=feature.type name=feature.name discovered=feature.discovered
+                features=@root.features}}
+        {{/each}}
+    </fieldset>
+
+    <footer>
+        <button type="submit">
+            <i class="fa-solid fa-save"></i>
+            <span>Save</span>
+        </button>
+    </footer>
+</form>
