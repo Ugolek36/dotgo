@@ -1,0 +1,63 @@
+{
+  "id": "pf2e-kingmaker",
+  "title": "Pathfinder: Kingmaker",
+  "description": "For generations, the Stolen Lands have spanned the southern border of Brevoy. Many attempts have been made to settle them, but to date, none have succeeded, making these 35,000 square miles of wilderness the largest swath of unclaimed land in the entire River Kingdoms.<br/> As tensions mount in Brevoy, one of Rostland’s swordlords hopes to change that fact; she plans to issue charters to several groups of adventurers, sending them south into the Stolen Lands to reopen old trade routes and defeat the bandits and monsters who have made them too dangerous to use.",
+  "authors": [
+    { "name": "Viviane Charlier" },
+    { "name": "Andrew Clayton" },
+    { "name": "Shane Martland" },
+    { "name": "Matt Ryan" }
+  ],
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "11.309",
+    "verified": "11.309",
+    "maximum": "11"
+  },
+  "media": [
+    {
+        "type": "setup",
+        "caption": "Pathfinder: Kingmaker",
+        "thumbnail": "/modules/pf2e-kingmaker/assets/journal-scenes/kingdom-building.webp"
+    }],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.6.0"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/pf2e-km.mjs"
+  ],
+  "styles": [
+    "styles/pf2e-km.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "kingmaker",
+      "label": "Pathfinder: Kingmaker",
+      "path": "packs/kingmaker",
+      "type": "Adventure",
+      "banner": "/modules/pf2e-kingmaker/assets/maps-thumbs/landing-lzuGwLYqNfID91d4.webp",
+      "system": "pf2e"
+    }
+  ],
+  "flags": {
+    "pf2e-kingmaker": {
+      "pf2e-art": "modules/pf2e-kingmaker/km-map.json"
+    }
+  },
+  "protected": false,
+  "manifest": "https://foundryvtt.s3.us-west-2.amazonaws.com/modules/pf2e-kingmaker/module.json"
+}

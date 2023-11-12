@@ -1,0 +1,2862 @@
+{
+  "kingmaker-bestiary": {
+    "h73Up6EQZqtgh6gP": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/jamandi-aldori.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/jamandi-aldori.webp",
+        "randomImg": true
+      }
+    },
+    "xMuLJmx51eBv9FcE": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/pavetta-stroon-drelev.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/jewel.webp",
+        "randomImg": true
+      }
+    },
+    "KqWZZBucIAA1MzjF": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/jubilost.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/jubilost.webp",
+        "randomImg": true
+      }
+    },
+    "0EQySWHT7D68yrrx": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/jubilost.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/jubilost.webp",
+        "randomImg": true
+      }
+    },
+    "rsm5ZSX6oKJWQRvf": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/nyrissas-tempest.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/nyrissas-tempest.webp",
+        "randomImg": true
+      }
+    },
+    "obT2KQ8YYlRxvSWr": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/tree-that-weeps.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/tree-that-weeps.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "ZEpByav3dMCyvJJu": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/void-pit.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/void-pit.webp",
+        "randomImg": true
+      }
+    },
+    "NxVi4ot2bzNOk6Zj": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/aecora-silverfire.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/aecora-silverfire.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "IGVqtFsNIyghuVsD": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/agai.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/agai.webp",
+        "randomImg": true
+      }
+    },
+    "YFnWOu9edWhj6vV6": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/akiros-ismort.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/akiros-ismort.webp",
+        "randomImg": true
+      }
+    },
+    "pcct13qdrriJf3OL": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/akuzhail.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/akuzhail.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "mMfMs5PlNYkwe55s": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/alasen.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/alasen.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "Awlsx9BtgkQ39x6N": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/aldori-sister.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/aldori-sister.webp",
+        "randomImg": true
+      }
+    },
+    "QF2AIby1vQRq5b9E": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/ameon-trask.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/ameon-trask.webp",
+        "randomImg": true
+      }
+    },
+    "MgUBst46K9Hv0qsJ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/amiri.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/amiri.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "sF7JAULkMpi1QMz2": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/amiri.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/amiri.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "etIP2Mdv3Xnr0wto": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/ancient-wisp.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/ancient-wisp.webp",
+        "randomImg": true
+      }
+    },
+    "hLvxvLere6DruDLJ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/annamede-belavarah.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/annamede-belavarah.webp",
+        "randomImg": true
+      }
+    },
+    "NSY6VAGs9VrKzyRX": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/armag-twice-born.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/armag-twice-born.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "bHnGsHHymPUC1XGc": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/auchs.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/auchs.webp",
+        "randomImg": true
+      }
+    },
+    "1vsQlCVwa9kVmgRi": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/avatar-of-the-lantern-king.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/avatar-of-the-lantern-king.webp",
+        "randomImg": true
+      }
+    },
+    "oM1AvORITfhzwrDk": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/barbtongued-wyvern.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/barbtongued-wyvern.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "ndoXVn6MPPxSJvcC": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/black-smilodon.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/black-smilodon.webp",
+        "randomImg": true
+      }
+    },
+    "MqxA7COGMXc5CNsZ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/black-tear-cutthroat.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/black-tear-cutthroat.webp",
+        "randomImg": true
+      }
+    },
+    "BWI2CbtRo2lUcraX": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/bloom-cultist.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/bloom-cultist.webp",
+        "randomImg": true
+      }
+    },
+    "vBugpZnpxQcrrWoo": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/bloom-of-lamashtu.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/bloom-of-lamashtu.webp",
+        "randomImg": true
+      }
+    },
+    "vTzbfxtvhhmS7KWr": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/bloom-wyvern.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/bloom-wyvern.webp",
+        "randomImg": true
+      }
+    },
+    "bjMn6cRNFK9jgfe0": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/bog-mummy-cultist.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/bog-mummy-cultist.webp",
+        "randomImg": true
+      }
+    },
+    "LF67gTrSqSb7h4KZ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/boggard-cultist.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/boggard-cultist.webp",
+        "randomImg": true
+      }
+    },
+    "I8IPTHEU1zF5KmAB": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/boggard-warden.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/boggard-warden.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "Wyqsf3qDt7PqQ8OM": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/thylacine.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/thylacine.webp",
+        "randomImg": true
+      }
+    },
+    "aEz68WBHT9F5YlXz": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/castruccio-irovetti.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/castruccio-irovetti.webp",
+        "randomImg": true
+      }
+    },
+    "hywUu3wVDuXePx3e": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/centaur-scout.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/centaur-scout.webp",
+        "randomImg": true
+      }
+    },
+    "vff5VzjJpRMmg4Hx": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/cephal-lorentus.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/cephal-lorentus.webp",
+        "randomImg": true
+      }
+    },
+    "RL6cxasbeQMtCDvV": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/chief-sootscale.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/chief-sootscale.webp",
+        "randomImg": true
+      }
+    },
+    "UfB3NfSgZIkN5Rjx": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/cleansed-cultist.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/cleansed-cultist.webp",
+        "randomImg": true
+      }
+    },
+    "48o307dry03xazvd": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/corax.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/corax.webp",
+        "randomImg": true
+      }
+    },
+    "V7FoP8iIcehuiF20": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/cursed-guardian.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/cursed-guardian.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "8cRXmQ9vd93T0m2N": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/cyclops-zombie.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/cyclops-zombie.webp",
+        "randomImg": true
+      }
+    },
+    "mbAhAq5OyZAv6lq5": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/darivan.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/darivan.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "fs1iFoZmJF1iUWwX": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/davik-nettles.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/davik-nettles.webp",
+        "randomImg": true
+      }
+    },
+    "rnFjLc6xYYPtXS6a": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/defaced-naiad-queen.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/defaced-naiad-queen.webp",
+        "randomImg": true
+      }
+    },
+    "oOPf7VG4tuMvzrgA": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/ekundayos-dog.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/ekundayos-dog.webp",
+        "randomImg": true
+      }
+    },
+    "eVHkWtrdGJMVMob7": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/dovan-from-nisroch.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/dovan-from-nisroch.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "wMfnwJoLvxdZZAwr": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/drelev-guard.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/drelev-guard.webp",
+        "randomImg": true
+      }
+    },
+    "1SEyDYO9l6mcFhoy": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/ekundayo.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/ekundayo.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "EM2mwJzZeu5rWIQS": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/ekundayo.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/ekundayo.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "L6ANJQoCyk5dWcdH": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/elder-elemental-tsunami.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/elder-elemental-tsunami.webp",
+        "randomImg": true
+      }
+    },
+    "sMCEMlNngFINMX8y": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/elga-verniex.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/elga-verniex.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "mNKAaSBWbZHQRdo9": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/endless-struggle.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/endless-struggle.webp",
+        "randomImg": true
+      }
+    },
+    "UPESZZbXchcuqI1r": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/engelidis.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/engelidis.webp",
+        "randomImg": true
+      }
+    },
+    "3xHHKI7PGQN218aL": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/eobald.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/eobald.webp",
+        "randomImg": true
+      }
+    },
+    "cPcregujkG0LUHiG": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/evindra.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/evindra.webp",
+        "randomImg": true
+      }
+    },
+    "ZPm7WqgQTjysuTiT": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/false-priestess.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/false-priestess.webp",
+        "randomImg": true
+      }
+    },
+    "tjq87ghubOcPAXjj": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/fetch-behemoth.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/fetch-behemoth.webp",
+        "randomImg": true
+      }
+    },
+    "nDFogS2qQJomjfmR": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/fetch-stalker.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/fetch-stalker.webp",
+        "randomImg": true
+      }
+    },
+    "wdoRpYImTQuVGZSQ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/fionn.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/fionn.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "2mkfF43tP8IGVfBz": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/foras.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/foras.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "WJ0bMCZUHJVwKYG1": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/freshly-bloomed-basilisk.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/freshly-bloomed-basilisk.webp",
+        "randomImg": true
+      }
+    },
+    "SZVTHAwTVXDwIOqC": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/gaetane.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/gaetane.webp",
+        "randomImg": true
+      }
+    },
+    "kSR0D8dLXTlw09NT": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/gedovius.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/gedovius.webp",
+        "randomImg": true
+      }
+    },
+    "VSffsyt5RONB4k2U": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/general-avinash-jurrg.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/general-avinash-jurrg.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "gXbDaY9ci2u22ptT": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/ghostly-guard.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/ghostly-guard.webp",
+        "randomImg": true
+      }
+    },
+    "jFA0q3g3MsFxS3xO": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/goblin-bat-dog.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/goblin-bat-dog.webp",
+        "randomImg": true
+      }
+    },
+    "lRxISnNmcfUm7AfG": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/grabbles.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/grabbles.webp",
+        "scale": 1.6,
+        "randomImg": true
+      }
+    },
+    "Bq2eST0Ke4MnKXgR": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/grigori.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/grigori.webp",
+        "randomImg": true
+      }
+    },
+    "AGNRcnrftglAtlbN": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/gromog.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/gromog.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "lutSSPcXOzDDqIGj": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/gurija.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/gurija.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "EvNCuVyY5sEGM4ZL": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/hannis-drelev.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/hannis-drelev.webp",
+        "randomImg": true
+      }
+    },
+    "y5W2rrHzQmeSE6LU": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/happs-bydon.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/happs-bydon.webp",
+        "randomImg": true
+      }
+    },
+    "pD5Y7gJtqlr2A4a2": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/hargulka.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/hargulka.webp",
+        "randomImg": true
+      }
+    },
+    "k9eR5UwCSrfpPPAv": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/hateful-hermit.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/hateful-hermit.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "bF0FHdZMWl1OuRae": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/hill-giant-butcher.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/hill-giant-butcher.webp",
+        "randomImg": true
+      }
+    },
+    "ni0RSuVeUgs5WmlY": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/hillstomper.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/hillstomper.webp",
+        "randomImg": true
+      }
+    },
+    "BEo6xNEhEKPsUzIn": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/hooktongue.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/hooktongue.webp",
+        "randomImg": true
+      }
+    },
+    "7PkMXEkBrxhTCw4s": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/horagnamon.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/horagnamon.webp",
+        "randomImg": true
+      }
+    },
+    "XzFifthQr0V5nEJe": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/ilora-nuski.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/ilora-nuski.webp",
+        "randomImg": true
+      }
+    },
+    "n82GZhM6joceE91v": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/ilthuliak.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/ilthuliak.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "XydYK1C7RFDqKine": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/imeckus-stroon.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/imeckus-stroon.webp",
+        "randomImg": true
+      }
+    },
+    "pfvUhfy0VHNlTyvN": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/immense-mandragora.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/immense-mandragora.webp",
+        "randomImg": true
+      }
+    },
+    "uLzD70CB7Bh2XxQf": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/infested-shambler.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/infested-shambler.webp",
+        "randomImg": true
+      }
+    },
+    "8eTfnYg0xmcgmDVQ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/irovettis-fetch.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/irovettis-fetch.webp",
+        "randomImg": true
+      }
+    },
+    "Y9N8MaTYupFhCUuN": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/jaggedbriar-hag.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/jaggedbriar-hag.webp",
+        "randomImg": true
+      }
+    },
+    "jmH2nbWRJSYgzx5z": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/jin-durwhimmer.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/jin-durwhimmer.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "Nx6vcagWXhYToIdC": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/jurgrindor.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/jurgrindor.webp",
+        "randomImg": true
+      }
+    },
+    "wJDtBtvRtyxtyqHS": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/kargstaad.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/kargstaad.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "s0BfmFWAhLQkQEbg": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/kargstaads-giant.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/kargstaads-giant.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "P1kWLRlEPTcZ3uzD": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/kellid-graveknight.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/kellid-graveknight.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "fiBhPqM2lomswplt": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/kereek.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/kereek.webp",
+        "randomImg": true
+      }
+    },
+    "mgh7E2Mh0ZRaniCc": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/king-vesket.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/king-vesket.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "M7hMPdEbaC1RNwfY": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/kob-moleg.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/kob-moleg.webp",
+        "randomImg": true
+      }
+    },
+    "vrZrha0Gz14Zd4tA": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/korog.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/korog.webp",
+        "randomImg": true
+      }
+    },
+    "UBwmJpIyIV65U7R2": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/kressle.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/kressle.webp",
+        "randomImg": true
+      }
+    },
+    "ZGVQcWl03kBIStS0": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/kundal.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/kundal.webp",
+        "randomImg": true
+      }
+    },
+    "bwEYizrdHs8lmvxE": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/leng-envoy.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/leng-envoy.webp",
+        "randomImg": true
+      }
+    },
+    "XQyXoOe7FCpZilaF": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/lesser-jabberwock.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/lesser-jabberwock.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "ZDt1rLh1VUFnHj5S": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/lickweed.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/lickweed.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "WGHV95WkNnlY70Sn": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/lintwerth.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/lintwerth.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "ZaA9oQXOWne0IXSG": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/linzi.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/linzi.webp",
+        "randomImg": true
+      }
+    },
+    "zvhw5Qx6gU7e39he": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/linzi.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/linzi.webp",
+        "randomImg": true
+      }
+    },
+    "wD6nctHffSaMdyag": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/lizardfolk-warrior.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/lizardfolk-warrior.webp",
+        "randomImg": true
+      }
+    },
+    "UAlHSl6Cpujld1dx": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/logger.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/logger.webp",
+        "randomImg": true
+      }
+    },
+    "hGLp8mkvx8J8DDL8": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/malgorzata-niska.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/malgorzata-niska.webp",
+        "randomImg": true
+      }
+    },
+    "6BFUxkEBKPr89SNt": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/mandragora-swarm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/mandragora-swarm.webp",
+        "randomImg": true
+      }
+    },
+    "sw32QdZlsWnmWaVY": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/mastiff-of-tindalos.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/mastiff-of-tindalos.webp",
+        "randomImg": true
+      }
+    },
+    "RTd4FwqGq8gBjdAO": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/melianse.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/melianse.webp",
+        "randomImg": true
+      }
+    },
+    "SjU0oB6pOk0XY8VN": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/minognos-ushad.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/minognos-ushad.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "L3q7yQ0jKqH2IWy7": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/nightmare-rook.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/nightmare-rook.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "9nGhRYarE5KkwOwc": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/nilak.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/nilak.webp",
+        "randomImg": true
+      }
+    },
+    "gdTJOwXUwwhKAzlR": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/nishkiv-the-knife.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/nishkiv-the-knife.webp",
+        "randomImg": true
+      }
+    },
+    "sY8owbk9TFeygFL9": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/nok-nok.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/nok-nok.webp",
+        "randomImg": true
+      }
+    },
+    "0EO5vP2gCliAxLrF": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/nok-nok.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/nok-nok.webp",
+        "randomImg": true
+      }
+    },
+    "Ypxj2FdUPQqpWPf3": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/ntavi.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/ntavi.webp",
+        "randomImg": true
+      }
+    },
+    "KP7uf1E8CQgzTuQy": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/nugrah.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/nugrah.webp",
+        "randomImg": true
+      }
+    },
+    "j7fPCy71EfQL1KmU": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/nyrissa.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/nyrissa.webp",
+        "randomImg": true
+      }
+    },
+    "RfIipAkVucpR0f0x": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/oleg.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/oleg.webp",
+        "randomImg": true
+      }
+    },
+    "5npzwOJSQLSPhmx2": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/pavetta-stroon-drelev.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/pavetta-stroon-drelev.webp",
+        "randomImg": true
+      }
+    },
+    "S4oIMaVPzQuRaTpK": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/phomandala.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/phomandala.webp",
+        "randomImg": true
+      }
+    },
+    "SaSXYUpSWIFHIzET": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/pitax-warden.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/pitax-warden.webp",
+        "randomImg": true
+      }
+    },
+    "yzlu5YX7Oxo7TVvK": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/prazil.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/prazil.webp",
+        "randomImg": true
+      }
+    },
+    "hLBHFloWuXLjCQYH": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/primal-bandersnatch.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/primal-bandersnatch.webp",
+        "randomImg": true
+      }
+    },
+    "VEWrS5u71szMrhs4": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/quintessa-maray.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/quintessa-maray.webp",
+        "randomImg": true
+      }
+    },
+    "tq87VRZjkGBmW8kf": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/rezatha.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/rezatha.webp",
+        "randomImg": true
+      }
+    },
+    "ugzdSsP9U0gGLZ3v": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/rigg-gargadilly.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/rigg-gargadilly.webp",
+        "randomImg": true
+      }
+    },
+    "6zWcjvPya0wWDZv2": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/risen-fetch.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/risen-fetch.webp",
+        "randomImg": true
+      }
+    },
+    "Lm30gxMpkRJ2Y43d": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/satinder-morne.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/satinder-morne.webp",
+        "randomImg": true
+      }
+    },
+    "sedubjznhIbVfCkD": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/sepoko.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/sepoko.webp",
+        "randomImg": true
+      }
+    },
+    "O5EEnXdrKPcODuwh": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/sir-fredero-sinnet.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/sir-fredero-sinnet.webp",
+        "randomImg": true
+      }
+    },
+    "554zNFkbYXBdmgAy": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/sister-of-the-bloodshot-eye.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/sister-of-the-bloodshot-eye.webp",
+        "randomImg": true
+      }
+    },
+    "vs8QT4LYEcQfA6Us": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/skeletal-tiger-lord.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/skeletal-tiger-lord.webp",
+        "randomImg": true
+      }
+    },
+    "ZoUIXzygFDuHKebr": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/spirit-of-stisshak.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/spirit-of-stisshak.webp",
+        "randomImg": true
+      }
+    },
+    "Ea0Edd9XNA17yj9n": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/stag-lord-bandit.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/stag-lord-bandit.webp",
+        "randomImg": true
+      }
+    },
+    "ZlEhOqdwPDpU3jvO": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/stinging-nettles.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/stinging-nettles.webp",
+        "randomImg": true
+      }
+    },
+    "BJbe6BzLSIx8Jsix": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/storm-struck-arboreal.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/storm-struck-arboreal.webp",
+        "randomImg": true
+      }
+    },
+    "WmSZELnHCZ9g9Nq2": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/svetlana.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/svetlana.webp",
+        "randomImg": true
+      }
+    },
+    "kiUlJn4FzWMzgkbW": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/talon-peak-roc.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/talon-peak-roc.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "8IYynuqZxDpXZwBE": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/tartuccio.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/tartuccio.webp",
+        "randomImg": true
+      }
+    },
+    "etrlNmJRUWDKbKwG": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/terrion-numesti.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/terrion-numesti.webp",
+        "randomImg": true
+      }
+    },
+    "lZtkMlyix3kaTO0j": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/the-beast.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/the-beast.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "LdIVntI4ho9eKTVt": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/the-dancing-lady.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/the-dancing-lady.webp",
+        "randomImg": true
+      }
+    },
+    "qS7JwIPqsjNKKALK": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/the-first-faithful.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/the-first-faithful.webp",
+        "randomImg": true
+      }
+    },
+    "ovjnD3aiPgRi2C7u": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/the-gardener.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/the-gardener.webp",
+        "randomImg": true
+      }
+    },
+    "OhuPV1g5LfejhtAz": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/the-horned-hunter.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/the-horned-hunter.webp",
+        "randomImg": true
+      }
+    },
+    "SVUjDSZHYmwbQgnq": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/the-knurly-witch.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/the-knurly-witch.webp",
+        "randomImg": true
+      }
+    },
+    "3Tb42wMuwjtP3iYN": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/the-lonely-warrior.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/the-lonely-warrior.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "jUNnWUuiVueOTvHt": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/the-misbegotten-troll.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/the-misbegotten-troll.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "defXhBIK4TtoZXGK": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/the-stag-lord.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/the-stag-lord.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "NMCee869vhJjP5Ri": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/the-wriggling-man.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/the-wriggling-man.webp",
+        "randomImg": true
+      }
+    },
+    "7bWjM5e9sKxaYbOw": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/thorn-river-bandit.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/thorn-river-bandit.webp",
+        "randomImg": true
+      }
+    },
+    "z1Hk6z6RU4sF9aJU": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/thresholder-disciple.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/thresholder-disciple.webp",
+        "randomImg": true
+      }
+    },
+    "3kyS4KzEmG8Eyl4N": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/thresholder-hermeticist.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/thresholder-hermeticist.webp",
+        "randomImg": true
+      }
+    },
+    "htHgsx1COWOfhE3D": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/thresholder-mystic.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/thresholder-mystic.webp",
+        "randomImg": true
+      }
+    },
+    "TLoNfIIhS7YGdV54": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/thylacine.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/thylacine.webp",
+        "randomImg": true
+      }
+    },
+    "HkdsqQLNb9XwzYIH": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/tiger-lord.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/tiger-lord.webp",
+        "randomImg": true
+      }
+    },
+    "1ZKOTqqzeorIv7BB": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/trapdoor-ogre-spider.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/trapdoor-ogre-spider.webp",
+        "randomImg": true
+      }
+    },
+    "hdFT5WIarw2Do3Sy": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/tristian.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/tristian.webp",
+        "randomImg": true
+      }
+    },
+    "so1XCkNLe2tuNbzW": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/tristian.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/tristian.webp",
+        "randomImg": true
+      }
+    },
+    "QkGk4GMq3pCtBbLS": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/troll-guard.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/troll-guard.webp",
+        "randomImg": true
+      }
+    },
+    "K61HTqmdHRPHQz1x": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/tulvak.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/tulvak.webp",
+        "randomImg": true
+      }
+    },
+    "hX3uMf6KxgObJ9ec": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/valerie.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/valerie.webp",
+        "randomImg": true
+      }
+    },
+    "aoICPc2KqxIP19m2": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/valerie.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/valerie.webp",
+        "randomImg": true
+      }
+    },
+    "UXXEOnvp2MDaS9Sc": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/vilderavn-herald.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/vilderavn-herald.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "AjpJNvt4nwzDAhqT": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/villamor-koth.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/villamor-koth.webp",
+        "randomImg": true
+      }
+    },
+    "Dxn6t9aoWUwPn6CE": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/virthad.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/virthad.webp",
+        "randomImg": true
+      }
+    },
+    "5Xslhvyh3MSzgIXN": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/volodmyra.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/volodmyra.webp",
+        "randomImg": true
+      }
+    },
+    "eAu4SOvMaNISD3RZ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/vordakai.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/vordakai.webp",
+        "randomImg": true
+      }
+    },
+    "qLfHY6uNUQ99NZei": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/werendegar.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/werendegar.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "SfFMqKTUQ1Dwu5lT": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/whimwyrm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/whimwyrm.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "3gtQv6Mkr7CUlG7W": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/wild-hunt-archer.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/wild-hunt-archer.webp",
+        "randomImg": true
+      }
+    },
+    "7os3GIj69tIqXTGl": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/wild-hunt-horse.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/wild-hunt-horse.webp",
+        "randomImg": true
+      }
+    },
+    "OnHIutiVLt1czwWL": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/wild-hunt-hound.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/wild-hunt-hound.webp",
+        "randomImg": true
+      }
+    },
+    "pZosztihhMtCLinT": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/wild-hunt-monarch.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/wild-hunt-monarch.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "fQ9FuovHuRt6vtcq": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/wild-hunt-scout.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/wild-hunt-scout.webp",
+        "randomImg": true
+      }
+    },
+    "F0uz9YV8ILAM8fIg": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/windchaser.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/windchaser.webp",
+        "randomImg": true
+      }
+    },
+    "xqTVUqUs5UsGcSuH": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/winged-owlbear.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/winged-owlbear.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "ylMXDs2f7C0YKdZY": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/xae.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/xae.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "PK8yBANFyMqFZ3IY": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/zorek.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/zorek.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "m8kwG6NskYDlBSCy": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/ankou.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/ankou.webp",
+        "randomImg": true
+      }
+    },
+    "myNEeBzXVmWbHk2X": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "0qc6h3jgLFNhX1tG": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "fbsy6zPV4HjHiis7": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/athach.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/athach.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "ZiNVsXL5DJ4Ekd5v": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "qpkpPFlN0dSKJxaR": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "HRLmXOCMwyw5HAfw": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "1upVC05DY7YzxNsr": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/spider-swarm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/spider-swarm.webp",
+        "randomImg": true
+      }
+    },
+    "AXmQ8rUKsJFZUKb6": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "vONZlReozVCabXhq": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "GiRckUiMamrdgjXQ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "gNtXGquzueNJLvFJ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "MlWXttLN4MjyzTGr": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "MABh0eh1VKh3izdf": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "wHQmyXnG4Yax4KcK": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/giant-dragonfly.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/giant-dragonfly.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "AA3hdVlJhALthghl": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/flame-drake.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/flame-drake.webp",
+        "randomImg": true
+      }
+    },
+    "S3jESLRaGeoaHG7t": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "sNqAajzeDA9BUkfa": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "TAEgPgivuUOyuEU5": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "cjQVmbjqONihI9SR": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/black-pudding.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/black-pudding.webp",
+        "randomImg": true
+      }
+    },
+    "3HnIluPWsKm3eEYB": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "1UWbR2WkeP0kl1nQ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/hunting-spider.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/hunting-spider.webp",
+        "randomImg": true
+      }
+    },
+    "oBPdL0icCG5zmknB": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "TOW9azHYIoaNSavI": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "8D3xvMiuOLJ3p6FU": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/hydra.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/hydra.webp",
+        "randomImg": true
+      }
+    },
+    "v2cJC9tdjRHexMwa": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/ahuizotl.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/ahuizotl.webp",
+        "randomImg": true
+      }
+    },
+    "XOiNuunTFGbDYeu2": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "B0EZMtvXsIE3SYiu": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "GDBEHLicn4kKggis": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/raven-swarm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/raven-swarm.webp",
+        "randomImg": true
+      }
+    },
+    "ZbgFOoDCOXqhJWhz": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/spirit-naga.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/spirit-naga.webp",
+        "randomImg": true
+      }
+    },
+    "pT5hfxcsG7eV5oxh": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/neothelid.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/neothelid.webp",
+        "randomImg": true
+      }
+    },
+    "dZEl1W8zV3rj5D9O": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/old-crackjaw.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/old-crackjaw.webp",
+        "randomImg": true
+      }
+    },
+    "ce5vC049lfuXnPSy": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "w8jUzPPGLQECT4j7": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/viper-vine.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/viper-vine.webp",
+        "randomImg": true
+      }
+    },
+    "y68kqNXmr1BnjZtc": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/chimera.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/chimera.webp",
+        "randomImg": true
+      }
+    },
+    "uQbzVX7DWDbxLONd": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "zZrKk6wh7av4nU1z": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "oqlZNnsV8XMGn7JN": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "Kmr8s4sEMn365d5M": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/mitflit.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/mitflit.webp",
+        "randomImg": true
+      }
+    },
+    "hGQ4uxhxwtrnGfj0": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "YyUVzTucO99JFDnm": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "3QkgiJJ0IS6oTT0t": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/elasmosaurus.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/elasmosaurus.webp",
+        "scale": 3,
+        "randomImg": true
+      }
+    },
+    "GviFe34FuTpo8AT0": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "JLfy3tVKEhLqT2j5": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "RN3Fiz9AZzUuqb9z": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "E70Drr6CmSaJQ01v": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "I8pvGB7SiXQ6SnGn": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "hW40C78kV4MBDs4v": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "hFHdGOMRuhXIuAJo": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "FkSxn7QSbVqA3dMy": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "2deePNLiJcnSZQhd": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "rUmPNDqvptyp5Ob4": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "8YJiyhWSWxMdGJV6": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "Cj2zn7JazTB9ZnIq": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/hill-giant.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/hill-giant.webp",
+        "randomImg": true
+      }
+    },
+    "TfwvPnETjUhEUQ82": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "hQ0aR4oXug0yoTbT": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "MUuXMpUGEnqmElgT": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/army-ant-swarm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/army-ant-swarm.webp",
+        "randomImg": true
+      }
+    },
+    "EI8wQc9kzooDHQoJ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    }
+  },
+  "quest-for-the-frozen-flame-bestiary": {
+    "IP3fGAEz3Nw1TzDD": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/elk.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/elk.webp",
+        "randomImg": true
+      }
+    },
+    "ZZkuo6mOh0SQWC3T": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/megaloceros.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/megaloceros.webp",
+        "randomImg": true
+      }
+    }
+  },
+  "pathfinder-bestiary": {
+    "oSvWsqFnQLS5wlvg": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/kingmaker/frost-giant.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/kingmaker/frost-giant.webp",
+        "randomImg": true
+      }
+    },
+    "keCgklXcy4HZgQIL": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/adamantine-golem.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/adamantine-golem.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "iD3YlM0QzI2SrjD6": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/azure-worm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/azure-worm.webp",
+        "randomImg": true
+      }
+    },
+    "M6RknN77XTo23v45": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/banshee.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/banshee.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "rPHxXClTnoPYHYuZ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/basilisk.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/basilisk.webp",
+        "randomImg": true
+      }
+    },
+    "saEPHCN5lDiylb5H": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/black-pudding.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/black-pudding.webp",
+        "randomImg": true
+      }
+    },
+    "4MwjCsa5O9aAjxSm": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/boar.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/boar.webp",
+        "randomImg": true
+      }
+    },
+    "wifELOkkRO2634bc": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/boggard-scout.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/boggard-scout.webp",
+        "randomImg": true
+      }
+    },
+    "pG3UPgbAxNCXAyQE": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/boggard-swampseer.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/boggard-swampseer.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "JkBJ8B07ElXrfDaG": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/boggard-warrior.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/boggard-warrior.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "CzxQpB3p0d9hwPeR": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/bulette.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/bulette.webp",
+        "randomImg": true
+      }
+    },
+    "FHfrIJCdKTzy2rrR": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/cauthooj.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/cauthooj.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "l05LjJTXvFS4tYTE": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/centaur.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/centaur.webp",
+        "randomImg": true
+      }
+    },
+    "ZPAM4OavHmdgmGnw": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/centipede-swarm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/centipede-swarm.webp",
+        "randomImg": true
+      }
+    },
+    "ScNPruIwcIJNuSHb": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/chimera.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/chimera.webp",
+        "randomImg": true
+      }
+    },
+    "aD76W2uEQhFFUrom": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/chuul.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/chuul.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "vJwnApm0HkadGR7w": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/crocodile.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/crocodile.webp",
+        "randomImg": true
+      }
+    },
+    "Dwgl1DzJAYE3ienu": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/cyclops.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/cyclops.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "quXuocHuT2US7cWz": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/daeodon.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/daeodon.webp",
+        "randomImg": true
+      }
+    },
+    "qHqhUWeNUZRET9xV": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/dire-wolf.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/dire-wolf.webp",
+        "randomImg": true
+      }
+    },
+    "iSwUKe7cEytclS7r": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/dryad.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/dryad.webp",
+        "randomImg": true
+      }
+    },
+    "vmN9SCUJxN1MIXwp": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/elemental-tsunami.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/elemental-tsunami.webp",
+        "randomImg": true
+      }
+    },
+    "csRH8Fx0r6iMWlFc": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/ether-spider.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/ether-spider.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "atrhmCtNKx1MR06I": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/faerie-dragon.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/faerie-dragon.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "O5YbsTSlX5VhciP4": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/flame-drake.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/flame-drake.webp",
+        "randomImg": true
+      }
+    },
+    "wKVZdVVcXtvLxgsY": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/giant-animated-statue.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/giant-animated-statue.webp",
+        "randomImg": true
+      }
+    },
+    "BKPRkJgq7ehsW7uX": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/giant-centipede.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/giant-centipede.webp",
+        "randomImg": true
+      }
+    },
+    "5pk6bfodgnllSIOy": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/giant-flytrap.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/giant-flytrap.webp",
+        "randomImg": true
+      }
+    },
+    "SuWpn5yZdsHDHpL2": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/giant-monitor-lizard.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/giant-monitor-lizard.webp",
+        "randomImg": true
+      }
+    },
+    "dEAneTvoPuQXZoLR": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/gibbering-mouther.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/gibbering-mouther.webp",
+        "randomImg": true
+      }
+    },
+    "jGzVwekcRX5aQpbT": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/goblin-commando.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/goblin-commando.webp",
+        "scale": 1.2,
+        "randomImg": true
+      }
+    },
+    "z0l0lHc79NbMxiqZ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/goblin-pyro.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/goblin-pyro.webp",
+        "scale": 1.2,
+        "randomImg": true
+      }
+    },
+    "4BBzo72pHOpecoIp": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/goblin-war-chanter.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/goblin-war-chanter.webp",
+        "randomImg": true
+      }
+    },
+    "jVZRROs0GzDjVrgi": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/goblin-warrior.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/goblin-warrior.webp",
+        "scale": 1.2,
+        "randomImg": true
+      }
+    },
+    "IXen98RbUlbxDWBD": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/gogiteth.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/gogiteth.webp",
+        "randomImg": true
+      }
+    },
+    "Zn0p5YjELMjEwkqx": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/great-cyclops.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/great-cyclops.webp",
+        "randomImg": true
+      }
+    },
+    "j1mm6bb3hZ56jSrK": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/grig.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/grig.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "CJP3GGBXuGgkaj6C": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/grizzly-bear.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/grizzly-bear.webp",
+        "randomImg": true
+      }
+    },
+    "AuCC04X2AO8oFN75": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/harpy.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/harpy.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "aqW5sp9HPgZgpXxs": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/hill-giant.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/hill-giant.webp",
+        "randomImg": true
+      }
+    },
+    "KclNszYZ7sjwE9nX": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/hobgoblin-archer.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/hobgoblin-archer.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "E4ctF7Fvi3cdkgQq": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/hunting-spider.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/hunting-spider.webp",
+        "randomImg": true
+      }
+    },
+    "RiKjpztTt7tZbOeo": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/hydra.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/hydra.webp",
+        "randomImg": true
+      }
+    },
+    "t4bHhZBBDUyVzEmf": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/iron-golem.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/iron-golem.webp",
+        "randomImg": true
+      }
+    },
+    "rPaHIh0ICnTLnRO6": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/kobold-scout.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/kobold-scout.webp",
+        "randomImg": true
+      }
+    },
+    "r9w1n85mp9Ip4QiS": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/kobold-warrior.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/kobold-warrior.webp",
+        "scale": 1.2,
+        "randomImg": true
+      }
+    },
+    "WNqPRMjKW0oCHZ8X": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/krooth.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/krooth.webp",
+        "randomImg": true
+      }
+    },
+    "wqPYzMNgYvrO6oEP": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/leopard.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/leopard.webp",
+        "randomImg": true
+      }
+    },
+    "N62zM3aTelygWIt2": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/leukodaemon.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/leukodaemon.webp",
+        "randomImg": true
+      }
+    },
+    "EhB5Q98OO25DDOOl": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/lizardfolk-defender.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/lizardfolk-defender.webp",
+        "randomImg": true
+      }
+    },
+    "1CzZINpYRcNBKDnO": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/lizardfolk-scout.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/lizardfolk-scout.webp",
+        "randomImg": true
+      }
+    },
+    "yIXRooXdsKtbcw2D": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/mammoth.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/mammoth.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "qpRJOzx3bJ7rolHp": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/manticore.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/manticore.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "E0LCMHVp4sxAbQYa": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/mitflit.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/mitflit.webp",
+        "randomImg": true
+      }
+    },
+    "DPEmRRXYevk3ADqW": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/morrigna.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/morrigna.webp",
+        "randomImg": true
+      }
+    },
+    "VUJrPHKOjYkIQnWn": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/mu-spore.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/mu-spore.webp",
+        "randomImg": true
+      }
+    },
+    "X03vq2RWi2jiA6Ri": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/owlbear.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/owlbear.webp",
+        "randomImg": true
+      }
+    },
+    "wpmvdP5w936Kmq0e": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/pixie.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/pixie.webp",
+        "scale": 1.2,
+        "randomImg": true
+      }
+    },
+    "x26dyZZZRvZpzK2X": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/quelaunt.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/quelaunt.webp",
+        "randomImg": true
+      }
+    },
+    "sPClc6y3dT3XZupv": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/rat-swarm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/rat-swarm.webp",
+        "randomImg": true
+      }
+    },
+    "BAD7npndaooB3Pz1": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/redcap.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/redcap.webp",
+        "scale": 1.6,
+        "randomImg": true
+      }
+    },
+    "Zbvh6ChdD0TWv257": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/remorhaz.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/remorhaz.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "In2nNwo3JL1RXQhj": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/riding-horse.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/riding-horse.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "2HvXtedQziTTfI0S": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/roc.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/roc.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "3kLXBdtKpUsU8ey5": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/satyr.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/satyr.webp",
+        "randomImg": true
+      }
+    },
+    "XrmHgbKgcHDi4OnK": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/shadow.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/shadow.webp",
+        "randomImg": true
+      }
+    },
+    "6XlGTt3RveX49YbC": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/shambler.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/shambler.webp",
+        "randomImg": true
+      }
+    },
+    "Q3EaaLLx5kDXb5vQ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/shoggoth.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/shoggoth.webp",
+        "randomImg": true
+      }
+    },
+    "RMSx2C27yty0MTva": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/skeletal-champion.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/skeletal-champion.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "lo4fR4jDVzLdwwkH": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/skeletal-hulk.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/skeletal-hulk.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "myEeYWWAgnkLwtIb": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/skulltaker.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/skulltaker.webp",
+        "randomImg": true
+      }
+    },
+    "eHLDsL1LG3jQ1H6Y": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/slurk.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/slurk.webp",
+        "randomImg": true
+      }
+    },
+    "Ey19J4nTn1dQvLtE": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/snapping-flytrap.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/snapping-flytrap.webp",
+        "randomImg": true
+      }
+    },
+    "KpxhSWRIhG7ns5NA": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/spider-swarm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/spider-swarm.webp",
+        "randomImg": true
+      }
+    },
+    "2IrbfdtWyXiGOLBA": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/tarn-linnorm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/tarn-linnorm.webp",
+        "randomImg": true
+      }
+    },
+    "x6wfK4UCJ6wYok9t": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/tor-linnorm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/tor-linnorm.webp",
+        "randomImg": true
+      }
+    },
+    "gvCCATlH9mPGWbsp": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/troll.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/troll.webp",
+        "randomImg": true
+      }
+    },
+    "FwH05kDUlC8CwWTU": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/troll-king.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/troll-king.webp",
+        "randomImg": true
+      }
+    },
+    "VAWmwDA08ZLQd8lW": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/vampire-bat-swarm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/vampire-bat-swarm.webp",
+        "randomImg": true
+      }
+    },
+    "Sft7n3LMmnTxhhYn": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/warg.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/warg.webp",
+        "randomImg": true
+      }
+    },
+    "NpcS7iocNNsno6lE": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/warsworn.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/warsworn.webp",
+        "randomImg": true
+      }
+    },
+    "KFf6pJmFmzj7HH9i": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/water-mephit.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/water-mephit.webp",
+        "scale": 1.2,
+        "randomImg": true
+      }
+    },
+    "ZMr28tFTA5NUcBTi": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/web-lurker.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/web-lurker.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "NTXm3ee7WZJ92Sww": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/wemmuth.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/wemmuth.webp",
+        "randomImg": true
+      }
+    },
+    "bLMoqt9xqTZKnjxr": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/werewolf.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/werewolf.webp",
+        "randomImg": true
+      }
+    },
+    "wRQ7TZdd0n5UIIao": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/will-o'-wisp.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/will-o'-wisp.webp",
+        "randomImg": true
+      }
+    },
+    "v92cB3RBUMhysOpD": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/winter-wolf.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/winter-wolf.webp",
+        "randomImg": true
+      }
+    },
+    "Oilfs8Atv2LjAsUS": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/wolf.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/wolf.webp",
+        "randomImg": true
+      }
+    },
+    "wuaSG22lLjQ6yali": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/wyvern.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/wyvern.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "FJo8VkrM7kLkHa5D": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/zombie-hulk.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/zombie-hulk.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "0plBflWwrCWQO2RO": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/zombie-shambler.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/zombie-shambler.webp",
+        "randomImg": true
+      }
+    }
+  },
+  "pathfinder-bestiary-2": {
+    "UgEN8JYAT6tLbryy": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/ahuizotl.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/ahuizotl.webp",
+        "randomImg": true
+      }
+    },
+    "DxV2vH17H789bJ6y": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/ankou.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/ankou.webp",
+        "randomImg": true
+      }
+    },
+    "8a9N2iPA5HLpkWaF": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/army-ant-swarm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/army-ant-swarm.webp",
+        "randomImg": true
+      }
+    },
+    "DWQzgPL1WjXfu4rV": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/assassin-vine.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/assassin-vine.webp",
+        "randomImg": true
+      }
+    },
+    "CwrVQsRAeqlr1Vh0": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/athach.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/athach.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "zjPdqdQGNjO3Kto7": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/aurumvorax.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/aurumvorax.webp",
+        "randomImg": true
+      }
+    },
+    "nzLGh9GKCk7imto3": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/blodeuwedd.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/blodeuwedd.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "SG8fOxo4SS7bXpav": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/bog-strider.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/bog-strider.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "qjAtPDIi7OyUGsNy": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/bythos.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/bythos.webp",
+        "randomImg": true
+      }
+    },
+    "Wtok8DP7ybbEJ1fB": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/cairn-linnorm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/cairn-linnorm.webp",
+        "randomImg": true
+      }
+    },
+    "BJoM8LAVP8MA5o8v": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/catoblepas.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/catoblepas.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "8WAc7n2M4Ks00yvj": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/cavern-troll.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/cavern-troll.webp",
+        "randomImg": true
+      }
+    },
+    "i8C4jqI3VdozylBL": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/cornugon.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/cornugon.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "oKogG9AwUZ9iBsm3": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/derghodaemon.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/derghodaemon.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "prNJZOU8tdRIZITT": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/doprillu.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/doprillu.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "ZGEf08j9q4fIPDFd": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/dread-wraith.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/dread-wraith.webp",
+        "randomImg": true
+      }
+    },
+    "n6cv7eCzPSs4dbHn": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/dweomercat.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/dweomercat.webp",
+        "randomImg": true
+      }
+    },
+    "VYEPG1G64OaCQmwf": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/elasmosaurus.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/elasmosaurus.webp",
+        "scale": 3,
+        "randomImg": true
+      }
+    },
+    "RFCxaIS4OkacCpxD": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/froghemoth.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/froghemoth.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "URYQ5goPCmrQvJf5": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/giant-ant.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/giant-ant.webp",
+        "randomImg": true
+      }
+    },
+    "b5b6J3TqbcXnmKyy": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/giant-dragonfly.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/giant-dragonfly.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "EWoJAp5LJeL1Qfye": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/giant-frog.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/giant-frog.webp",
+        "randomImg": true
+      }
+    },
+    "g1htYgARxNKxc7MV": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/giant-slug.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/giant-slug.webp",
+        "randomImg": true
+      }
+    },
+    "UTnrcGoCIXR95zKi": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/giant-whiptail-centipede.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/giant-whiptail-centipede.webp",
+        "randomImg": true
+      }
+    },
+    "MCZgXBC0I4Oovcjd": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/giant-wolverine.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/giant-wolverine.webp",
+        "randomImg": true
+      }
+    },
+    "F5QibbbxUeO8A3Kj": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/grimstalker.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/grimstalker.webp",
+        "randomImg": true
+      }
+    },
+    "1QWZDaBoefL5rWkz": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/hodag.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/hodag.webp",
+        "randomImg": true
+      }
+    },
+    "10JbkieWjqKA5Hzc": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/irlgaunt.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/irlgaunt.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "Y0qsrBFTFMbaiLzr": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/jabberwock.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/jabberwock.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "kKH3uMHbVZQmEtxj": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/jotund-troll.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/jotund-troll.webp",
+        "randomImg": true
+      }
+    },
+    "xfcFXLbadD3KdlHW": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/lerritan.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/lerritan.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "T3low0wQNMO0SEtr": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/leucrotta.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/leucrotta.webp",
+        "randomImg": true
+      }
+    },
+    "W2gd0emEVbD8EGmf": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/marsh-giant.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/marsh-giant.webp",
+        "randomImg": true
+      }
+    },
+    "ZBTqN3DNjdreXCu7": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/mastodon.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/mastodon.webp",
+        "randomImg": true
+      }
+    },
+    "ytsHNgRwLzabsrZt": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/meladaemon.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/meladaemon.webp",
+        "randomImg": true
+      }
+    },
+    "Hwy4YrNVVr7NnsMC": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/mudwretch.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/mudwretch.webp",
+        "randomImg": true
+      }
+    },
+    "wxBQsGLdti2xcGVT": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/neothelid.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/neothelid.webp",
+        "randomImg": true
+      }
+    },
+    "fRLrlY25qXkOMBNG": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/nuckelavee.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/nuckelavee.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "Kr5LtF0bqZJAC2Wn": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/ogre-spider.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/ogre-spider.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "drtCZDDoESPSUqH7": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/peluda.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/peluda.webp",
+        "randomImg": true
+      }
+    },
+    "nxR3nseHT01YmOQo": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/piscodaemon.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/piscodaemon.webp",
+        "randomImg": true
+      }
+    },
+    "wrzlJufGEfMg5kVE": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/raven-swarm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/raven-swarm.webp",
+        "randomImg": true
+      }
+    },
+    "eD1kydftMIp4CL2K": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/sard.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/sard.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "EOiOqs1vHCxZAj3T": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/scarecrow.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/scarecrow.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "Aa652cDdKTani3DY": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/scythe-tree.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/scythe-tree.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "SY8pvLPqc2EgP9Xj": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/soul-eater.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/soul-eater.webp",
+        "randomImg": true
+      }
+    },
+    "h4SZ3U9at7aT0ASv": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/spirit-naga.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/spirit-naga.webp",
+        "randomImg": true
+      }
+    },
+    "3VFHZyjSjNA1jbiO": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/sportlebore-swarm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/sportlebore-swarm.webp",
+        "randomImg": true
+      }
+    },
+    "qdlP3qTZtjzZXpmQ": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/spriggan-bully.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/spriggan-bully.webp",
+        "randomImg": true
+      }
+    },
+    "MDdbC8XDUPFg4FCv": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/spriggan-warlord.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/spriggan-warlord.webp",
+        "randomImg": true
+      }
+    },
+    "UnWr8QSMq2VZUQhX": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/tatzlwyrm.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/tatzlwyrm.webp",
+        "randomImg": true
+      }
+    },
+    "yBglC9GBy6p1x87t": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/tendriculos.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/tendriculos.webp",
+        "randomImg": true
+      }
+    },
+    "fpBJiCOoHDlefgpO": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/thunderbird.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/thunderbird.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "fwjDIGzmuEJN81Qq": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/trollhound.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/trollhound.webp",
+        "randomImg": true
+      }
+    },
+    "H8KNSMb9uo2mJF3P": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/twigjack.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/twigjack.webp",
+        "scale": 2,
+        "randomImg": true
+      }
+    },
+    "lUYlClIPITmhzepe": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/two-headed-troll.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/two-headed-troll.webp",
+        "randomImg": true
+      }
+    },
+    "zXZrUTQSI0WxAsF5": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/verdurous-ooze.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/verdurous-ooze.webp",
+        "randomImg": true
+      }
+    },
+    "GsrqCDf0Dc9PisEt": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/violet-fungus.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/violet-fungus.webp",
+        "randomImg": true
+      }
+    },
+    "duaHanGHvRGhUtB5": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/viper-vine.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/viper-vine.webp",
+        "randomImg": true
+      }
+    },
+    "cd2IaNGpdmHHZnrN": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/xill.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/xill.webp",
+        "scale": 1.5,
+        "randomImg": true
+      }
+    },
+    "Ge5Q5I7TTksf7QyN": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/bestiaries/zomok.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-tokens/bestiaries/zomok.webp",
+        "scale": 3,
+        "randomImg": true
+      }
+    }
+  },
+  "hazards": {
+    "BHq5wpQU8hQEke8D": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "vTdWEBzJzltMM6r4": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "Or0jjL8xS3GyiMq0": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    },
+    "A93flWUsot3FmC7t": {
+      "actor": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+      "token": {
+        "img": "modules/pf2e-kingmaker/assets/actor-portraits/hazards/default.webp",
+        "randomImg": true
+      }
+    }
+  }
+}
